@@ -1,4 +1,4 @@
-# practicas-Rust
+# practicas-Rust and  config vs- code
 juego de numero secreto
 configuracion de vscode 
 /***/
